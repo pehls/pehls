@@ -1,4 +1,12 @@
 ### Hi there 👋
+I am a Senior Data Scientist with a proven track record of driving innovative data science initiatives, leading the renewal of Machine Learning structures, implementing MLOps practices at various organization, with achievements in drug replacement algorithms, Machine Learning models for authorization of medical claims, and NLP. Previously, played a key role in establishing and leading the Data Science/BI area, overseeing DW creation using Python + Amazon RedShift + Power BI, and implementing BI processes. Demonstrated expertise in ETL, data visualization, and ML model applications across various sectors. Explore more about my journey at my Profile!
+
+### Contact 
+<a href="mailto:gabrielpehls@hotmail.com"><img loading="lazy" src="https://www.svgrepo.com/show/14478/email.svg" width="40" height="40"/><a/>
+<a href="https://www.linkedin.com/in/gabriel-pehls/"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40"/><a/>
+
+### Studies
+Currently, studying an intersect between MLOps, LLMOps and how large language models was made - inside the black box of "binarized models" and apis, how transformers, attention and other structures of Deep Learning and Feature Engineering made to transform text to numbers, inside matrices, and back to text, image, sounds, videos, codes, etc.
 
 <!--
 **pehls/pehls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
